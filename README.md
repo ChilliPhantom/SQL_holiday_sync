@@ -1,6 +1,6 @@
 # SQL Holiday Sync
 
-A lightweight utility to sync public holidays from [Nager.Date API](https://date.nager.at) into an SQL Server database (e.g., XTime900). Useful for updating systems like time & attendance.
+A lightweight utility to sync public holidays from [Nager.Date API](https://date.nager.at) into an SQL Server database (e.g., T&A). Useful for updating systems like time & attendance.
 
 ---
 
